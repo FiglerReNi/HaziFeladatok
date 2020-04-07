@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\bin\Debug\Hazi0901.exe.config
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\bin\Debug\Hazi0901.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\bin\Debug\Hazi0901.pdb
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\obj\Debug\Hazi0901.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\obj\Debug\Hazi0901.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\Hazi0901\obj\Debug\Hazi0901.pdb

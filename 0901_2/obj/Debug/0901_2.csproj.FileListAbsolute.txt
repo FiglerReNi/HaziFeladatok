@@ -1,0 +1,5 @@
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\0901_2\bin\Debug\0901_2.exe.config
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\0901_2\bin\Debug\0901_2.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\0901_2\bin\Debug\0901_2.pdb
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\0901_2\obj\Debug\0901_2.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi0901\0901_2\obj\Debug\0901_2.pdb

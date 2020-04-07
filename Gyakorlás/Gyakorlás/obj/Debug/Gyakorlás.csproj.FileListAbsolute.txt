@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe.config
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.exe
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\bin\Debug\Gyakorlás.pdb
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.exe
+D:\Programozás\Visual Studio\Feladatok\Gyakorlás\Gyakorlás\obj\Debug\Gyakorlás.pdb
