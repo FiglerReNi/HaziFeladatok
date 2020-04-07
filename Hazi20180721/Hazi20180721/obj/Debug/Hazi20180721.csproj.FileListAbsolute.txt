@@ -1,0 +1,6 @@
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\bin\Debug\Hazi20180721.exe.config
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\obj\Debug\Hazi20180721.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\bin\Debug\Hazi20180721.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\bin\Debug\Hazi20180721.pdb
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\obj\Debug\Hazi20180721.exe
+D:\Programozás\Visual Studio\Feladatok\Hazi20180721\Hazi20180721\obj\Debug\Hazi20180721.pdb

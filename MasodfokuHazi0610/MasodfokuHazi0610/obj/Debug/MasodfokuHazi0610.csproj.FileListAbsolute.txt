@@ -1,0 +1,9 @@
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\bin\Debug\MasodfokuHazi0610.exe.config
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\bin\Debug\MasodfokuHazi0610.exe
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\bin\Debug\MasodfokuHazi0610.pdb
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.csprojResolveAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.Form1.resources
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.Properties.Resources.resources
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.csproj.GenerateResource.Cache
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.exe
+D:\Programozás\Visual Studio\Feladatok\MasodfokuHazi0610\MasodfokuHazi0610\obj\Debug\MasodfokuHazi0610.pdb
