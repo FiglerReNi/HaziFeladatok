@@ -1,0 +1,7 @@
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\bin\Debug\RendezesHazi0527.exe.config
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\bin\Debug\RendezesHazi0527.exe
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\bin\Debug\RendezesHazi0527.pdb
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\obj\Debug\RendezesHazi0527.csprojAssemblyReference.cache
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\obj\Debug\RendezesHazi0527.csproj.CoreCompileInputs.cache
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\obj\Debug\RendezesHazi0527.exe
+D:\Programozás\Visual Studio\Feladatok\RendezesHazi0527\RendezesHazi0527\obj\Debug\RendezesHazi0527.pdb
